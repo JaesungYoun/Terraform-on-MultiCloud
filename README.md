@@ -1,5 +1,11 @@
 # Terraform-on-MultiCloud
 
+## 1. Terraform 이란?
+테라폼(Terraform)은 Hashicorp에서 오픈소스로 개발 중인 클라우드 인프라스트럭처 자동화를 지향하는 코드로서의 Infrastructure as Code, IaC 도구입니다.
+
+
+
+
 
 **Infra Provisioning on MultiCloud using Terraform**   
 
