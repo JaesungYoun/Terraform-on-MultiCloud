@@ -7,6 +7,9 @@
 
 
 
+테라폼을 사용하면 AWS든, GCP든, NCP든 테라폼이 지원하는 클라우드 플랫폼이라면, 클라우드 인프라 환경을 코드로서 정의해 사용함으로써 동일한 인프라를 재현할 수 있다.
+
+
 **Infra Provisioning on MultiCloud using Terraform**   
 
 <img src="https://user-images.githubusercontent.com/73388615/177294573-01fb37d0-cc33-41ec-a4a5-713b4057c34c.png" width="200" height="200"/>
@@ -15,7 +18,11 @@
 
 ## 2. USE
 
-### Terraform 명령어
+### 1) 
+
+
+
+### 2) Terraform 명령어
 - init
   - Terraform 구성 파일이 포함된 작업 디렉토리를 초기화하는 데 사용됩니다.
 - plan
